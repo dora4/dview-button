@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="DoraButton">
+        <attr name="dview_cornerRadius" format="dimension" />
+        <attr name="dview_disableBgColor" format="color" />
+        <attr name="dview_normalBgColor" format="color" />
+        <attr name="dview_hoverBgColor" format="color" />
+        <attr name="dview_disableTextColor" format="color" />
+        <attr name="dview_normalTextColor" format="color" />
+        <attr name="dview_hoverTextColor" format="color" />
+    </declare-styleable>
+</resources>
