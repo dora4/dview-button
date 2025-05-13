@@ -1,6 +1,7 @@
 dview-button
 ![Release](https://jitpack.io/v/dora4/dview-button.svg)
 --------------------------------
+![DORA视图 触发先锋](https://github.com/user-attachments/assets/5f5356af-e0eb-4db0-b3b0-90be8a3ab5e0)
 
 ##### 卡名：Dora视图 Button 
 ###### 卡片类型：效果怪兽
